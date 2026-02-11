@@ -124,8 +124,7 @@ sudo apt install -y nodejs
 
 <h3>4️⃣ Clone Project & Install</h3>
 <pre><code>
-git clone https://github.com/yourusername/ai-chat-app.git
-cd ai-chat-app
+git clone https://github.com/idevanshu/OpenRouter-AWS-Deployment.git
 npm install
 </code></pre>
 
