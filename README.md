@@ -41,8 +41,7 @@ Supports multiple AI models with real-time streaming responses and deployed on A
 
 <h3>1️⃣ Clone Repository</h3>
 <pre><code>
-git clone https://github.com/yourusername/ai-chat-app.git
-cd ai-chat-app
+git clone https://github.com/idevanshu/OpenRouter-AWS-Deployment.git
 </code></pre>
 
 <h3>2️⃣ Install Dependencies</h3>
